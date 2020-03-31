@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Learn Nav Component</string>
+    <string name="navigation_component">Navigation Component</string>
+    <string name="start">Start</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input">Input</string>
+    <string name="pass_data">Pass Data</string>
+    <string name="return_text">Return</string>
+</resources>
